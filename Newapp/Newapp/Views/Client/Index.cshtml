@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Newapp.Models.Client>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+
+<p>
+    @using (Html.BeginForm("Search", "Client", FormMethod.Get))
+    {
+        @Html.TextBox("Search")
+        <input id="Submit1" class="btn-info" type="submit" value="Search" />
+    }
+</p>
+
+<div style="float:right">
+    <form asp-action="SearchName" asp-controller="Client"
+          data-ajax="true"
+          data-ajax-method="get"
+          data-ajax-mode="replace"
+          data-ajax-update="#Ajform">
+
+        @Html.TextBox("Search")
+        <input type="submit" class="btn btn-info" value="Search Name" />
+    </form>
+
+</div>
+<p>
+    <a asp-action="Edit" asp-controller="Client"
+       data-ajax="true"
+       data-ajax-method="get"
+       data-ajax-mode="replace"
+       data-ajax-update="#Ajform">Create</a>
+</p>
+
+<div id="CList">
+    @await Html.PartialAsync("ClientView")
+</div>
+<div id="Ajform"></div>
+

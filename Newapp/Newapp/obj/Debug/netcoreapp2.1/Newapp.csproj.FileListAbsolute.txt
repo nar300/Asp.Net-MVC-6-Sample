@@ -1,0 +1,62 @@
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.deps.json
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.runtimeconfig.json
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.runtimeconfig.dev.json
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.dll
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.csprojAssemblyReference.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.csproj.CoreCompileInputs.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorAssemblyInfo.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorAssemblyInfo.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.AssemblyInfoInputs.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.AssemblyInfo.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorTargetAssemblyInfo.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.pdb
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.dll
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.pdb
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.Views.dll
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.Views.pdb
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.TagHelpers.input.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.TagHelpers.output.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorCoreGenerate.cache
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorTargetAssemblyInfo.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.Views.pdb
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.csproj.CopyComplete
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Details.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientView.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.g.cshtml.cs
+C:\Users\bins\Desktop\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\SearchName.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.deps.json
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.runtimeconfig.json
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.runtimeconfig.dev.json
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.dll
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.pdb
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.Views.dll
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\bin\Debug\netcoreapp2.1\Newapp.Views.pdb
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.csprojAssemblyReference.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.csproj.CoreCompileInputs.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorAssemblyInfo.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorAssemblyInfo.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.AssemblyInfoInputs.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.AssemblyInfo.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.TagHelpers.input.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.TagHelpers.output.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorCoreGenerate.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientView.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Details.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Client\SearchName.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorTargetAssemblyInfo.cache
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.RazorTargetAssemblyInfo.cs
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.Views.pdb
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.dll
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.pdb
+C:\Users\info\Documents\Sample Projects\Task2MVC\Newapp\Newapp\obj\Debug\netcoreapp2.1\Newapp.csproj.CopyComplete

@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+
+    <link href="~/Lib/Css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Lib/Scripts/bootstrap.min.js"></script>
+    <script src="~/Lib/Scripts/jquery.min.js"></script>
+    <script src="~/Lib/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+</head>
+<body>
+    <div class="container-fluid" style="height:150px;background-color:black">
+
+    </div>
+    <div class="container-fluid" style="padding-left:50px">
+        @RenderBody()
+             </div>
+</body>
+</html>
